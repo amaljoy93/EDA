@@ -1,6 +1,1 @@
-# familiarizing with python  pandas library 
-
-
-
-## Subheader
-learning how to use github
+## familiarizing with python  pandas library 
